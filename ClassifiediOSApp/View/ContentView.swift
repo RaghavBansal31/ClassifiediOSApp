@@ -33,7 +33,6 @@ struct ContentView: View {
                     .font(.system(size: 20, weight:.semibold, design:.monospaced))
                     .italic()
                     .foregroundStyle(.black.gradient)
-                    
                     .scrollContentBackground(.hidden)
                     
                     
