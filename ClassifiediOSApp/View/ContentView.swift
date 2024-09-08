@@ -20,7 +20,7 @@ struct ContentView: View {
                 VStack(spacing:20) {
                     Text("Classified iOS App").font(.system(size: 30, weight:.bold, design:.monospaced))
                         .italic()
-                        .foregroundStyle(.red.gradient)
+                        .foregroundStyle(.black.gradient)
                     
                     List{
                         if viewModel.customError != nil{
