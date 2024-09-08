@@ -42,6 +42,15 @@
 # Design Patterns
     - Singleton - It is used in the Network Manager while using URLSession for API Call
 
+# Created By: Raghav Bansal
+   
+
+
+
+
+
+
+
 
 
 
